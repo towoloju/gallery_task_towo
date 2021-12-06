@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #161616;
+}
+h1{
+    font-size:100px;
+    margin-top:20px;
+    font-weight:700;
+    color:#fff;
+    text-align: center;
+}
+.row{
+    max-width: 1140px;
+    padding:20px 100px;
+    margin-left:200px;
+}
+.row .pictures{
+    width:80%;
+    height:50%;
+    
+}
